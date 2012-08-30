@@ -1,0 +1,14 @@
+Hey sourcers,
+
+wow, its been a while hasn't it? If people are around today and have an hour to spare, we should have one last small source session before the semester starts! I have a fun project that we can work on (no I will not be drawing sheep turtles this time) and also a little plug for "social coding". Here is the question of the week!
+
+What is the probability of a coin landing tails 7 times in a row in a series of 150 coin flips?
+
+Last week, I was listening to radiolab, and they were talking about stochasticity (http://www.radiolab.org/2009/jun/15/ @around 9 minutes to 20 minutes if you're interested). A different form of the above problem came up, and a statistician said that the chances of that happening are 1 in 6. I didn't believe it so I googled a mathematical solution and found this:
+
+http://math.stackexchange.com/questions/4658/what-is-the-probability-of-a-coin-landing-tails-7-times-in-a-row-in-a-series-of
+Now the mathematical solution above doesn't match what the statistician said. So...who is right? Can we use a stochastic simulation in R to estimate the answer?
+
+
+This is a very tricky problem to code, and I would love to see what different solutions people come up with. We may not be able to finish coding this problem today, but it might be fun to brainstorm how we could solve this problem. Hopefully I'll see you guys later this afternoon!
+
